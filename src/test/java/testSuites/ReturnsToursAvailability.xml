@@ -1,15 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite name="Ui" parallel="tests" thread-count="4">
+<suite name="ReturnsToursAvailability" parallel="tests" thread-count="4">
 
     <listeners>
         <listener class-name="SetUp.Listener"/>
     </listeners>
 
-    <test name="Ui">
+    <test name="ReturnsToursAvailability">
         <classes>
-            <class name="UI.UiExampleTest"/>
-            <class name="UI.UiFailExampleTest"/>
+            <class name="API.Availability.ReturnsToursAvailabilityTest"/>
         </classes>
     </test>
 

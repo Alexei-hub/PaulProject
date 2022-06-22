@@ -1,5 +1,6 @@
 package API.Property;
 
+import io.qameta.allure.restassured.AllureRestAssured;
 import org.skyscreamer.jsonassert.JSONAssert;
 import org.testng.annotations.Test;
 import org.testng.reporters.Files;
@@ -21,6 +22,7 @@ public class FetchPropertyToursTest {
         expected = expected.replaceAll("06/21/2022", getCurrentData());
 
         String response = given()
+                .filter(new AllureRestAssured())
                 .when()
                 .get(URL)
                 .then().log().all()
