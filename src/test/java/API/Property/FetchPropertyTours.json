@@ -1,0 +1,340 @@
+{
+  "GCACT-CV": {
+    "code": "GCACT-CV",
+    "title": "Canyon Vistas Mule Rides",
+    "options": {
+      "TCV01": {
+        "title": "Canyon Vistas 8am",
+        "pickup": {
+          "TCV01S": "Historic Village Mule Barn"
+        }
+      },
+      "TCV02": {
+        "title": "Canyon Vistas 10am",
+        "pickup": {
+          "TCV02S": "Historic Village Mule Barn"
+        }
+      },
+      "TCV03": {
+        "title": "Canyon Vistas Noon",
+        "pickup": {
+          "TCV03S": "Historic Village Mule Barn"
+        }
+      }
+    },
+    "description": "<p>Grand Canyon mule riders are able to take in the breathtaking vistas of Grand Canyon National Park while traveling along the rim of the canyon. Grand Canyon National Park Lodges offer a four-mile, three-hour mule activity (two-hours in the saddle) that departs five miles east of the Historic Grand Canyon Village at the Yaki Barn. Bus transportation is included between the Historic Village Livery Barn and the Yaki Barn near the trailhead. The mule ride travels along the East Rim Trail built by the National Park Service. Wranglers will stop at least six times along the trail to provide interpretive information about the geologic formations, human history, fire ecology, and more. There are up to 20 riders per departure.<br /><br /><br />The Canyon Vistas mule rides depart daily at 8:00 a.m. and 12:00 p.m. March through October and&nbsp;at 10:00 a.m. from November through February.<br /><br /><br />Please visit our <a href=\"https://www.grandcanyonlodges.com/plan/mule-rides/\" target=\"_blank\" rel=\"nofollow noreferrer noopener\">Mule Rides</a> for additional information on these rides.<br /><br />&nbsp;</p><br />",
+    "activityLevel": "Moderate",
+    "requires": "<p><strong>RIDER RESTRICTIONS THAT&nbsp;</strong><strong>ALL RIDERS MUST MEET:</strong></p><br /><br /><ul><li>Riders must be at least 9 years old<br /></li><li>Riders must be in good physical condition<br /></li><li>Riders must weigh less than 225 pounds (102 kg), fully dressed<br /></li><li>Riders must be at least 4 feet, 9 inches tall (1.44 meters)<br /></li><li>Each rider must be able to speak and understand fluent English<br /></li><li>Riders should not be afraid of heights or large animals<br /></li><li>Riders age 17 and under must be accompanied by an adult 18 or older<br /></li><li>Riders height must be proportionate to his or her weight<br /></li><li>Failure to meet all of these restrictions will result in the rider being unable to partake in the ride with no refund of the deposit<br /></li></ul><p><br /><strong>REQUIRED CLOTHING:</strong></p><br /><br /><ul><li>Long sleeve shirts, long pants, broad brim hats, and close-toed shoes are required.<br /></li><li>Ski caps and gloves are recommended for winter riders.<br /></li></ul><p><br /><strong>ADVISORIES:</strong></p><br /><br /><ul><li>You MUST reconfirm with Transportation and Activities Desk at least 2 days prior to the tour date by calling 928-638-3283<br /></li><li>All riders must be present at check-in!<br /></li><li>We recommend guests check-in at the Bright Angel Lodge Transportation and Activities Desk on the day prior to the tour<br /></li><li>If unable to check-in the day prior, guests should check in at least 90 minutes prior to the tour departure time<br /></li><li>All riders must be at the Historic Village Livery Barn and ready to ride 15 minutes prior to scheduled departure<br /></li></ul>",
+    "location": "",
+    "questions": [
+      {
+        "title": "Name & Weight of each Guest REQUIRED -- Please note each rider must weigh 225lbs or less, fully dressed",
+        "type": "Guest",
+        "options": ""
+      },
+      {
+        "title": "I confirm all riders meet the required rider qualifications.",
+        "type": "Tour",
+        "options": "Yes"
+      }
+    ],
+    "images": [
+      {
+        "title": "Canyon Vistas Mule Rides",
+        "image": "https://xanterraapi.zgtech.net/common/images/properties/grandcanyonlodges/activities/GCACT-CV/gcact-cv-1631810582.jpg"
+      },
+      {
+        "title": "Canyon Vistas Mule Rides",
+        "image": "https://xanterraapi.zgtech.net/common/images/properties/grandcanyonlodges/activities/GCACT-CV/gcact-cv-1631810611.jpg"
+      },
+      {
+        "title": "Canyon Vistas Mule Rides",
+        "image": "https://xanterraapi.zgtech.net/common/images/properties/grandcanyonlodges/activities/GCACT-CV/gcact-cv-1631810686.jpg"
+      }
+    ],
+    "gallery": [],
+    "anyage": true,
+    "ageAdults": 13,
+    "ageChildren": 3,
+    "maxAdults": 17,
+    "maxChildren": 16,
+    "infantsAllowed": false,
+    "animalsAllowed": false,
+    "infantsText": "Infants",
+    "animalsText": "Animals",
+    "mindate": "06/21/2022",
+    "lowAvailability": 10
+  },
+  "GCACT-DV": {
+    "code": "GCACT-DV",
+    "title": "Desert View Motorcoach Tours",
+    "options": {
+      "TDV01": {
+        "title": "Desert View Morning Tour",
+        "pickup": {
+          "TDV01SBA": "Bright Angel Lodge",
+          "TDV01SML": "Maswik Lodge"
+        }
+      },
+      "TDV02": {
+        "title": "Desert View Afternoon Tour",
+        "pickup": {
+          "TDV02SBA": "Bright Angel Lodge",
+          "TDV02SML": "Maswik Lodge"
+        }
+      }
+    },
+    "description": "<p>Covering 52 miles in just under four (4) hours, this tour focuses on the natural beauty of the East Rim. The Desert View tour stops at various spectacular viewpoints along the East Rim Drive, such as Yaki Point, Moran Point, Navajo Point, as well as Desert View Overlook. There will be time at each viewpoint to take photos and enjoy the amazing views. Your driver will also educate you with details about the Grand Canyon and its history.<br /><br /><br />You will also have plenty of time to explore Desert View, an outpost 25 miles from Grand Canyon Historic Village. Here you will find the 70-foot-tall Watchtower, a re-creation of the unusual towers erected by the Ancient Indians of the Southwest, designed by architect Mary Jane Colter. Climb the 85 stairs for a 360 degree view from the observation deck, offering panoramic views of the Grand Canyon and Painted Desert. Or, relax in the Kiva Room at the base of the Watchtower, and enjoy the expansive views from the huge picture windows.<br /><br /><br />There is also a Trading Post, General Store, ice cream shop, and deli located at Desert View.<br /><br /><br />Please note: Rates are subject to change without notice.</p><br />",
+    "activityLevel": "Easy",
+    "requires": "<p><strong>Restrictions and Advisories: </strong></p><br /><br /><ul><li>Desert View Tours depart the Bright Angel Lodge at 9:00 a.m. and the Maswik Lodge at 9:10 a.m.<br /></li><li>Guests will deboard and reboard the motorcoach at select viewpoints<br /></li><li><strong>You MUST reconfirm with Transportation and Activities Desk at least 2 days prior to the tour date by calling 928-638-3283</strong><br /></li><li>We recommend guests check-inat the Transportation and Activities Desk at either the Bright Angel Lodge or the Maswik Lodge on the day prior to the tour. If unable to do so on the day prior, guests should check in at least one hour prior to the tour start time<br /></li></ul>",
+    "location": "",
+    "questions": [],
+    "images": [
+      {
+        "title": "Desert View Watchtower",
+        "image": "https://xanterraapi.zgtech.net/common/images/properties/grandcanyonlodges/activities/GCACT-DV/gcact-dv-1631811213.jpg"
+      },
+      {
+        "title": "Motorcoach",
+        "image": "https://xanterraapi.zgtech.net/common/images/properties/grandcanyonlodges/activities/GCACT-DV/gcact-dv-1631811247.jpg"
+      }
+    ],
+    "gallery": [],
+    "anyage": false,
+    "ageAdults": 13,
+    "ageChildren": 3,
+    "maxAdults": 17,
+    "maxChildren": 16,
+    "infantsAllowed": false,
+    "animalsAllowed": false,
+    "infantsText": "Infants",
+    "animalsText": "Animals",
+    "mindate": "06/21/2022",
+    "lowAvailability": 10
+  },
+  "GCACT-HR": {
+    "code": "GCACT-HR",
+    "title": "Hermits Rest Tours",
+    "options": {
+      "THR01": {
+        "title": "Hermit's Rest Morning Tour",
+        "pickup": {
+          "THR01SML": "Maswik Lodge",
+          "THR01SBA": "Bright Angel Lodge"
+        }
+      }
+    },
+    "description": "<p>Heading as far west as possible by road, this two (2) hour guided tour travels to Hermits Rest, and follows a wagon road originally taken by tourists in carriages more than a century ago. Along the way, the tour will stop at several spectacular overlooks, such as Hopi Point, Pima Point, or Mojave Point, and will provide glimpses of the Colorado River rapids below.<br /><br /><br />Highlighting the tour is a stop at Hermits Rest, an exquisite Mary Jane Colter design built in 1914. Mary Colter, one of Grand Canyon's most famous architects, built Hermits Rest to look like an old miner's cabin, complete with a giant fireplace and front porch.<br /><br /><br />Hermits Rest also has a gift shop and small snack bar.<br /><br /><br />Please note: Rates are subject to change without notice.</p><br />",
+    "activityLevel": "Easy",
+    "requires": "<p><strong>Restrictions and Advisories:</strong></p><br /><br /><ul><li>Hermits Rest Tours depart the Maswik Lodge at 9:00 a.m. and the Bright Angel Lodge at 9:10 a.m.<br /></li><li>Guests will deboard and reboard the motorcoach at select viewpoints<br /></li><li><strong>You MUST reconfirm with Transportation and Activities Desk at least 2 days prior to the tour date by calling 928-638-3283</strong><br /></li><li>We recommend guests check-in at the Transportation and Activities Desk at either the Bright Angel Lodge or the Maswik Lodge on the day prior to the tour. If unable to do so on the day prior, guests should check in at least one hour prior to the tour start time<br /></li></ul>",
+    "location": "",
+    "questions": [],
+    "images": [
+      {
+        "title": "Hermits Rest",
+        "image": "https://xanterraapi.zgtech.net/common/images/properties/grandcanyonlodges/activities/GCACT-HR/gcact-hr-1632042288.jpg"
+      }
+    ],
+    "gallery": [],
+    "anyage": false,
+    "ageAdults": 13,
+    "ageChildren": 3,
+    "maxAdults": 17,
+    "maxChildren": 16,
+    "infantsAllowed": false,
+    "animalsAllowed": false,
+    "infantsText": "Infants",
+    "animalsText": "Animals",
+    "mindate": "06/21/2022",
+    "lowAvailability": 10
+  },
+  "GCACT-SR": {
+    "code": "GCACT-SR",
+    "title": "Sunrise Tours",
+    "options": {
+      "TSR01": {
+        "title": "Sunrise Tour",
+        "pickup": {
+          "TSR01SML": "Maswik Lodge",
+          "TSR01SBA": "Bright Angel Lodge"
+        }
+      }
+    },
+    "description": "<p>Viewing a Grand Canyon sunrise is both peaceful and exhilarating. It combines the quiet of the morning with the brilliant change in colors. Enjoy this spectacular time of day as the sun rises over the stunning vistas of the Grand Canyon. It is an inspirational way to begin a day of activities, and to share this natural wonder with people from all over the world.<br /><br /><br />The hour and a half long Sunrise tour will travel west along the rim, and will make brief stops at various points along the rim, as it travels to the best viewpoint for the sunrise. Exact viewpoints may vary slightly due to weather, sunrise time, and other factors.<br /><br /><br />Please note: Rates are subject to change without notice.</p><br />",
+    "activityLevel": "Easy",
+    "requires": "<p><strong>Restrictions and Advisories: </strong></p><br /><br /><ul><li>Sunrise Tour departure times vary according to the Sunrise times throughout the year. As an early morning tour, departure times are approximately 45 minutes prior to Sunrise and range from as early as 4:30 a.m. (summer) to as late as 7:00 a.m. (winter). Please confirm the actual departure time of your tour when reconfirming with our Transportation Desk.<br /></li><li>Guests will deboard and reboard the motorcoach at select viewpoints<br /></li><li><strong>You MUST reconfirm with Transportation and Activities Desk at least 2 days prior to the tour date by calling 928-638-3283</strong><br /></li><li>We recommend guests check-in at the Transportation and Activities Desk at either the Bright Angel Lodge or the Maswik Lodge on the day prior to the tour. If unable to do so on the day prior, guests should check in at least one hour prior to the tour start time<br /></li></ul>",
+    "location": "",
+    "questions": [],
+    "images": [
+      {
+        "title": "Sunrise At The Grand Canyon",
+        "image": "https://xanterraapi.zgtech.net/common/images/properties/grandcanyonlodges/activities/GCACT-SR/gcact-sr-1632042492.jpg"
+      }
+    ],
+    "gallery": [],
+    "anyage": false,
+    "ageAdults": 13,
+    "ageChildren": 3,
+    "maxAdults": 17,
+    "maxChildren": 16,
+    "infantsAllowed": false,
+    "animalsAllowed": false,
+    "infantsText": "Infants",
+    "animalsText": "Animals",
+    "mindate": "06/21/2022",
+    "lowAvailability": 10
+  },
+  "GCACT-SS": {
+    "code": "GCACT-SS",
+    "title": "Sunset Tour",
+    "options": {
+      "THS03": {
+        "title": "Hermit's Rest Sunset Tour",
+        "pickup": {
+          "THS03SML": "Maswik Lodge",
+          "THS03SBA": "Bright Angel Lodge"
+        }
+      },
+      "TSS01": {
+        "title": "Sunset Tour",
+        "pickup": {
+          "TSS01SML": "Maswik Lodge",
+          "TSS01SBA": "Bright Angel Lodge"
+        }
+      }
+    },
+    "description": "<p>Grand Canyon sunsets are famous around the world, and should not be missed. Enjoy this spectacular time of day as the sun sets quietly in the west. The color pallet can be exceptional and inspirational--no two sunsets are the same. The opportunity to view a Grand Canyon sunset will leave you with unforgettable memories of the grandeur of the canyon.<br /><br /><br />The hour and a half long Sunset tour will travel west along the rim, and will make brief stops at various points along the rim, as it travels to the best viewpoint for the sunset. Exact viewpoints may vary slightly due to weather, sunset time, and other factors.<br /><br /><br />Please note: Rates are subject to change without notice.</p><br />",
+    "activityLevel": "Easy",
+    "requires": "<p><strong>Restrictions and Advisories:</strong></p><br /><br /><ul><li>Sunset Tour departure times vary according to the Sunset times throughout the year. As an evening tour, departure times are approximately 75 minutes prior to Sunset and range from as late as 6:10 p.m. (summer) and as early as 3:50 p.m. (winter). Please confirm the actual departure time of your tour when reconfirming with our Transportation Desk.<br /></li><li>Guests will deboard and reboard the motorcoach at select viewpoints<br /></li><li><strong>You MUST reconfirm with Transportation and Activities Desk at least 2 days prior to the tour date by calling 928-638-3283</strong><br /></li><li>We recommend guests check-in at the Transportation and Activities Desk at either the Bright Angel Lodge or the Maswik Lodge on the day prior to the tour. If unable to do so on the day prior, guests should check in at least one hour prior to the tour start time<br /></li></ul>",
+    "location": "",
+    "questions": [],
+    "images": [
+      {
+        "title": "Sunset At The Grand Canyon",
+        "image": "https://xanterraapi.zgtech.net/common/images/properties/grandcanyonlodges/activities/GCACT-SS/gcact-ss-1632042641.jpg"
+      }
+    ],
+    "gallery": [],
+    "anyage": false,
+    "ageAdults": 13,
+    "ageChildren": 3,
+    "maxAdults": 17,
+    "maxChildren": 16,
+    "infantsAllowed": false,
+    "animalsAllowed": false,
+    "infantsText": "Infants",
+    "animalsText": "Animals",
+    "mindate": "06/21/2022",
+    "lowAvailability": 10
+  },
+  "GCACT-DS": {
+    "code": "GCACT-DS",
+    "title": "Desert View Sunset Tour",
+    "options": {
+      "TDS02": {
+        "title": "Desert View Sunset Tour",
+        "pickup": {
+          "TDS02SML": "Maswik Lodge",
+          "TDS02SBA": "Bright Angel Lodge"
+        }
+      }
+    },
+    "description": "<p>Covering 52 miles in just under four (4) hours, this tour focuses on the natural beauty of the East Rim. The Desert View Sunset tour stops at various spectacular viewpoints along the East Rim Drive, such as Yaki Point, Moran Point, Navajo Point, as well as Desert View Overlook. There will be time at each viewpoint to take photos and enjoy the amazing views, including watching the sunset while at one of the viewpoints. Your driver will also educate you with details about the Grand Canyon and its history.<br /><br /><br />You will also have plenty of time to explore Desert View, an outpost 25 miles from Grand Canyon Historic Village. Here you will find the 70-foot-tall Watchtower, a re-creation of the unusual towers erected by the Ancient Indians of the Southwest, designed by architect Mary Jane Colter. Enjoy the dazzling sunset from the observation deck at the top of the Watchtower. Or, relax in the Kiva Room at the base of the Watchtower, and enjoy the sunset over the expansive views from the huge picture windows.<br /><br /><br />There is also a Trading Post, General Store, ice cream shop, and deli located at Desert View.<br /><br /><br />Please note: Rates are subject to change without notice.</p><br />",
+    "activityLevel": "Easy",
+    "requires": "<p><strong>Restrictions and Advisories: </strong></p><br /><br /><ul><li>Desert View Sunset Tour departure times vary according to the Sunset times and range from 3:20 p.m. to 4:00 p.m., depending on your tour date. Please confirm the actual departure time of your tour when reconfirming with our Transportation Desk.<br /></li><li>Guests will deboard and reboard the motorcoach at select viewpoints<br /></li><li><strong>You MUST reconfirm with Transportation and Activities Desk at least 2 days prior to the tour date by calling 928-638-3283</strong><br /></li><li>We recommend guests check-in at the Transportation and Activities Desk at either the Bright Angel Lodge or the Maswik Lodge on the day prior to the tour. If unable to do so on the day prior, guests should check in at least one hour prior to the tour start time<br /></li></ul>",
+    "location": "",
+    "questions": [],
+    "images": [
+      {
+        "title": "Sunset At Desert View",
+        "image": "https://xanterraapi.zgtech.net/common/images/properties/grandcanyonlodges/activities/GCACT-DS/gcact-ds-1632043445.jpg"
+      }
+    ],
+    "gallery": [],
+    "anyage": false,
+    "ageAdults": 13,
+    "ageChildren": 3,
+    "maxAdults": 17,
+    "maxChildren": 16,
+    "infantsAllowed": false,
+    "animalsAllowed": false,
+    "infantsText": "Infants",
+    "animalsText": "Animals",
+    "mindate": "06/21/2022",
+    "lowAvailability": 10
+  },
+  "GCACT-RE": {
+    "code": "GCACT-RE",
+    "title": "Railway Express Tours",
+    "options": {
+      "TRR01": {
+        "title": "Railway Express Tour",
+        "pickup": {
+          "TRR01SET": "El Tovar Hotel",
+          "TRR01SBA": "Bright Angel Lodge",
+          "TRR01SML": "Maswik Lodge"
+        }
+      }
+    },
+    "description": "",
+    "activityLevel": "Easy",
+    "requires": "",
+    "location": "",
+    "questions": [],
+    "images": [],
+    "gallery": [],
+    "anyage": false,
+    "ageAdults": 13,
+    "ageChildren": 3,
+    "maxAdults": 17,
+    "maxChildren": 16,
+    "infantsAllowed": false,
+    "animalsAllowed": false,
+    "infantsText": "Infants",
+    "animalsText": "Animals",
+    "mindate": "06/21/2022",
+    "lowAvailability": 10
+  },
+  "GCACT-SW": {
+    "code": "GCACT-SW",
+    "title": "Smoothwater Raft Tours",
+    "options": {
+      "TSW01": {
+        "title": "Smoothwater Rafting",
+        "pickup": {
+          "TSW01SGH": "Grand Hotel",
+          "TSW01SML": "Maswik Lodge"
+        }
+      }
+    },
+    "description": "<p>The Smoothwater Raft Trip is one of the most enjoyable ways to experience a leisurely day of sightseeing through the east part of Grand Canyon National Park and the Navajo Reservation, with the added experience of rafting on the Colorado River through Glen Canyon. During the three hour drive to Page, your driver will acquaint you with the natural and human history of the area.<br /><br /><br />After your check-in for the raft tour in Page, you will walk to the base of Glen Canyon dam. With the dam soaring 583 feet above, you will board a motorized pontoon raft for your 15-mile (3 to 4 hour) journey down a calm stretch of the Colorado River.<br /><br /><br />Once afloat, you will see such iconic sights as Horseshoe Bend and Petroglyph Beach (optional short hike), and enjoy a bistro lunch; on the river (lunch is a turkey sandwich, chips, cookie, and drink. Veggie, gluten-free, and other dietary restriction options available please contact Central Reservations at 888-297-2757 within the U.S., or 303-297-2757 from outside the US). The river portion will end at Lee's Ferry, the launching point for multi-day whitewater raft trips through the Grand Canyon. Here, you will re-board your vehicle for the trip back to the Grand Canyon.<br /><br /><br />This trip operates seasonally and is an all-day adventure that lasts approximately 12 hours.<a href=\"https://www.grandcanyonlodges.com/plan/rafting-tours/\" target=\"_blank\" rel=\"nofollow noreferrer noopener\">Click here</a> for recommended clothing and items allowed on the trip.</p><br />",
+    "activityLevel": "Easy",
+    "requires": "<p><strong>Restrictions & Advisories:</strong></p><br /><br /><ul><li>Smoothwater Raft Tours depart the Maswik Lodge at 7:00 a.m. and return to the Maswik Lodge at approximately 6:15 p.m. to 6:30 p.m.<br /></li><li>Children under age 4 are not permitted on this trip.<br /></li><li><strong>National Park Entry Fee Receipt must be brought on the trip. Guests who do not bring a receipt will have to repurchase their NPS pass at the per person rate.</strong><br /></li><li><strong>You MUST reconfirm with Transportation and Activities Desk at least 2 days prior to the tour date by calling 928-638-3283</strong><br /></li><li>Children age 12 and under are REQUIRED by the Coast Guard to wear a life jacket<br /></li><li>All guests are required to go through the security check, including all personal items. Since guests are going to a Homeland Security site, security is similar to airport security. There is a ZERO weapons policy, meaning NO firearms, knives (including pocket knives), batons, tasers, pepper sprays, etc.<br /></li><li>We recommend guests check-in at the Transportation and Activities Desk at either the Bright Angel Lodge or the Maswik Lodge on the day prior to the tour. If unable to do so on the day prior, guests should check in at least one hour prior to the tour start time<br /></li></ul>",
+    "location": "",
+    "questions": [
+      {
+        "title": "Please enter tour pickup location:",
+        "type": "Tour",
+        "options": "Maswik Lodge<br />Grand Hotel"
+      }
+    ],
+    "images": [
+      {
+        "title": "Raft",
+        "image": "https://xanterraapi.zgtech.net/common/images/properties/grandcanyonlodges/activities/GCACT-SW/gcact-sw-1632042816.jpg"
+      }
+    ],
+    "gallery": [],
+    "anyage": false,
+    "ageAdults": 13,
+    "ageChildren": 3,
+    "maxAdults": 17,
+    "maxChildren": 16,
+    "infantsAllowed": false,
+    "animalsAllowed": false,
+    "infantsText": "Infants",
+    "animalsText": "Animals",
+    "mindate": "06/21/2022",
+    "lowAvailability": 10
+  }
+}
