@@ -2,7 +2,10 @@ package UI;
 
 import SetUp.SetUpBrowser;
 import io.qameta.allure.*;
+import org.testng.annotations.AfterTest;
 import org.testng.annotations.Test;
+
+import static com.codeborne.selenide.Selenide.closeWebDriver;
 
 public class UiExampleTest extends SetUpBrowser {
 
@@ -19,7 +22,7 @@ public class UiExampleTest extends SetUpBrowser {
     @Story("User should choose Flexible Dates")
     @Issue("WW-1")
     @TmsLink("tc-1")
-    @Link(name = "requirements", url="https://www.somerequire.com",type = "Trello")
+    @Link(name = "requirements", url = "https://www.somerequire.com", type = "Trello")
     public void UiTest() {
         openPage(URL);
         new MainPageLogic()
@@ -28,5 +31,10 @@ public class UiExampleTest extends SetUpBrowser {
                 .selectMonthInFlexibleDate(MONTH)
                 .clickCheckAvailabilityBtn()
                 .checkCorrectMonthPage(MONTH);
+    }
+
+    @AfterTest
+    public void after() {
+        closeWebDriver();
     }
 }

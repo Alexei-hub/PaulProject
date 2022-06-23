@@ -2,7 +2,10 @@ package UI;
 
 import SetUp.SetUpBrowser;
 import io.qameta.allure.*;
+import org.testng.annotations.AfterTest;
 import org.testng.annotations.Test;
+
+import static com.codeborne.selenide.Selenide.closeWebDriver;
 
 public class UiFailExampleTest extends SetUpBrowser {
 
@@ -24,9 +27,13 @@ public class UiFailExampleTest extends SetUpBrowser {
         openPage(URL);
         new MainPageLogic()
                 .clickCheckInOut()
-                .clickFlexibleBtn()
                 .selectMonthInFlexibleDate(MONTH)
                 .clickCheckAvailabilityBtn()
                 .checkCorrectMonthPage(MONTH);
+    }
+
+    @AfterTest
+    public void after(){
+        closeWebDriver();
     }
 }

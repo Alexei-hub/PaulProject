@@ -9,8 +9,8 @@ public class SetUpBrowser {
 
     @Step("Open page {url}")
     public void openPage(String url) {
-        Configuration.timeout = 200000;
         Configuration.startMaximized = true;
+        Configuration.pageLoadTimeout = 20000;
         open(url);
     }
 }
