@@ -1,20 +1,27 @@
 package UI;
 
-import com.codeborne.selenide.Configuration;
+import SetUp.SetUpBrowser;
+import io.qameta.allure.*;
 import org.testng.annotations.Test;
 
-import static com.codeborne.selenide.Selenide.open;
+public class UiExampleTest extends SetUpBrowser {
 
-public class UiExampleTest {
-
+    private final String URL = "https://glaciernationalparklodgesapiuat.xanterra.net/booking/lodging";
     private final String MONTH = "September 2022";
 
     @Test
+    @Owner("Daniel")
+    @Lead("Paul Fowler")
+    @Description("Test check correct page after choosing Flexible Dates")
+    @Severity(SeverityLevel.NORMAL)
+    @Epic("Checking availability")
+    @Feature("Check In - Check Out")
+    @Story("User should choose Flexible Dates")
+    @Issue("WW-1")
+    @TmsLink("tc-1")
+    @Link(name = "requirements", url="https://www.somerequire.com",type = "Trello")
     public void UiTest() {
-//        Configuration.startMaximized = true;
-        Configuration.timeout = 160000;
-        Configuration.pageLoadTimeout = 160000;
-        open("https://glaciernationalparklodgesapiuat.xanterra.net/booking/lodging");
+        openPage(URL);
         new MainPageLogic()
                 .clickCheckInOut()
                 .clickFlexibleBtn()
