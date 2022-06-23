@@ -11,7 +11,7 @@ public class MainPageLogic extends MainPageElements {
 
     @Step("Click Check In - Check Out")
     public MainPageLogic clickCheckInOut() {
-        selectCheck().shouldBe(Condition.visible, Duration.ofSeconds(5)).click();
+        selectCheck().shouldBe(Condition.visible, Duration.ofSeconds(10)).click();
         return this;
     }
 
