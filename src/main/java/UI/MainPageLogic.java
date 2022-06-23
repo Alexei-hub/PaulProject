@@ -1,6 +1,9 @@
 package UI;
 
+import com.codeborne.selenide.Condition;
 import io.qameta.allure.Step;
+
+import java.time.Duration;
 
 import static com.codeborne.selenide.Selenide.page;
 
@@ -8,7 +11,7 @@ public class MainPageLogic extends MainPageElements {
 
     @Step("Click Check In - Check Out")
     public MainPageLogic clickCheckInOut() {
-        selectCheck().click();
+        selectCheck().shouldBe(Condition.visible, Duration.ofSeconds(5)).click();
         return this;
     }
 
